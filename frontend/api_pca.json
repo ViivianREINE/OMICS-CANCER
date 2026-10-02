@@ -1,0 +1,728 @@
+﻿{
+    "variance_explained":  [
+                               0.0426731428756671,
+                               0.036529869849286335
+                           ],
+    "samples":  [
+                    {
+                        "sample_name":  "GSM_BC_000",
+                        "group_name":  "Primary",
+                        "PC1":  56.49307851252551,
+                        "PC2":  -62.017466792128424
+                    },
+                    {
+                        "sample_name":  "GSM_BC_001",
+                        "group_name":  "Primary",
+                        "PC1":  -53.062407464929755,
+                        "PC2":  -50.549804309368376
+                    },
+                    {
+                        "sample_name":  "GSM_BC_002",
+                        "group_name":  "Primary",
+                        "PC1":  -35.475242548065424,
+                        "PC2":  -44.44272701070702
+                    },
+                    {
+                        "sample_name":  "GSM_BC_003",
+                        "group_name":  "Primary",
+                        "PC1":  -70.26046439090283,
+                        "PC2":  -75.12316416230783
+                    },
+                    {
+                        "sample_name":  "GSM_BC_004",
+                        "group_name":  "Primary",
+                        "PC1":  -36.87036947722308,
+                        "PC2":  -61.711857172463766
+                    },
+                    {
+                        "sample_name":  "GSM_BC_005",
+                        "group_name":  "Primary",
+                        "PC1":  -61.241614291287284,
+                        "PC2":  -124.25710963455482
+                    },
+                    {
+                        "sample_name":  "GSM_BC_006",
+                        "group_name":  "Primary",
+                        "PC1":  -71.8231232994479,
+                        "PC2":  -19.87188278140431
+                    },
+                    {
+                        "sample_name":  "GSM_BC_007",
+                        "group_name":  "Primary",
+                        "PC1":  -26.523902238582235,
+                        "PC2":  -141.08376461764274
+                    },
+                    {
+                        "sample_name":  "GSM_BC_008",
+                        "group_name":  "Primary",
+                        "PC1":  14.608579603910318,
+                        "PC2":  -101.2409418923075
+                    },
+                    {
+                        "sample_name":  "GSM_BC_009",
+                        "group_name":  "Primary",
+                        "PC1":  -0.9529321564956468,
+                        "PC2":  -42.65767825102952
+                    },
+                    {
+                        "sample_name":  "GSM_BC_010",
+                        "group_name":  "Primary",
+                        "PC1":  -60.27587991942318,
+                        "PC2":  -128.94918753528592
+                    },
+                    {
+                        "sample_name":  "GSM_BC_011",
+                        "group_name":  "Primary",
+                        "PC1":  -78.54978165643173,
+                        "PC2":  -68.12663441713907
+                    },
+                    {
+                        "sample_name":  "GSM_BC_012",
+                        "group_name":  "Primary",
+                        "PC1":  -56.44720126038635,
+                        "PC2":  -94.08776077450801
+                    },
+                    {
+                        "sample_name":  "GSM_BC_013",
+                        "group_name":  "Primary",
+                        "PC1":  70.66349557096243,
+                        "PC2":  -109.37580418235781
+                    },
+                    {
+                        "sample_name":  "GSM_BC_014",
+                        "group_name":  "Primary",
+                        "PC1":  40.63063793941646,
+                        "PC2":  -87.7165234949638
+                    },
+                    {
+                        "sample_name":  "GSM_BC_015",
+                        "group_name":  "Primary",
+                        "PC1":  -26.56642008794385,
+                        "PC2":  -70.73926402168824
+                    },
+                    {
+                        "sample_name":  "GSM_BC_016",
+                        "group_name":  "Primary",
+                        "PC1":  43.23067535000194,
+                        "PC2":  -114.59685337183198
+                    },
+                    {
+                        "sample_name":  "GSM_BC_017",
+                        "group_name":  "Primary",
+                        "PC1":  -11.762891382484312,
+                        "PC2":  -59.97591753313944
+                    },
+                    {
+                        "sample_name":  "GSM_BC_018",
+                        "group_name":  "Primary",
+                        "PC1":  9.783375790316844,
+                        "PC2":  -46.02342317381476
+                    },
+                    {
+                        "sample_name":  "GSM_BC_019",
+                        "group_name":  "Primary",
+                        "PC1":  -62.37242301664427,
+                        "PC2":  -66.43241273442224
+                    },
+                    {
+                        "sample_name":  "GSM_BC_020",
+                        "group_name":  "Primary",
+                        "PC1":  -46.05450078057554,
+                        "PC2":  50.611399806868214
+                    },
+                    {
+                        "sample_name":  "GSM_BC_021",
+                        "group_name":  "Primary",
+                        "PC1":  -23.946964409616278,
+                        "PC2":  -84.03987229317262
+                    },
+                    {
+                        "sample_name":  "GSM_BC_022",
+                        "group_name":  "Primary",
+                        "PC1":  -27.226954887353873,
+                        "PC2":  -169.58595647629335
+                    },
+                    {
+                        "sample_name":  "GSM_BC_023",
+                        "group_name":  "Primary",
+                        "PC1":  -49.03781691022856,
+                        "PC2":  -8.52918107563356
+                    },
+                    {
+                        "sample_name":  "GSM_BC_024",
+                        "group_name":  "Primary",
+                        "PC1":  -43.09857804894248,
+                        "PC2":  -78.81576901534582
+                    },
+                    {
+                        "sample_name":  "GSM_BC_025",
+                        "group_name":  "Primary",
+                        "PC1":  -71.25689941314887,
+                        "PC2":  -50.87490778460118
+                    },
+                    {
+                        "sample_name":  "GSM_BC_026",
+                        "group_name":  "Primary",
+                        "PC1":  -89.33572749044949,
+                        "PC2":  -283.81523364296595
+                    },
+                    {
+                        "sample_name":  "GSM_BC_027",
+                        "group_name":  "Primary",
+                        "PC1":  -7.010742309691289,
+                        "PC2":  -78.8799870587593
+                    },
+                    {
+                        "sample_name":  "GSM_BC_028",
+                        "group_name":  "Primary",
+                        "PC1":  -21.934406089018584,
+                        "PC2":  -85.30966051951101
+                    },
+                    {
+                        "sample_name":  "GSM_BC_029",
+                        "group_name":  "Primary",
+                        "PC1":  -48.83159939044913,
+                        "PC2":  -54.53929455161787
+                    },
+                    {
+                        "sample_name":  "GSM_BC_030",
+                        "group_name":  "Primary",
+                        "PC1":  -49.61003015060038,
+                        "PC2":  -79.77525233166445
+                    },
+                    {
+                        "sample_name":  "GSM_BC_031",
+                        "group_name":  "Primary",
+                        "PC1":  -75.51153426861157,
+                        "PC2":  -76.35761161434823
+                    },
+                    {
+                        "sample_name":  "GSM_BC_032",
+                        "group_name":  "Primary",
+                        "PC1":  141.7036311275109,
+                        "PC2":  -148.71646246025196
+                    },
+                    {
+                        "sample_name":  "GSM_BC_033",
+                        "group_name":  "Primary",
+                        "PC1":  13.064455379380377,
+                        "PC2":  -90.21877241746498
+                    },
+                    {
+                        "sample_name":  "GSM_BC_034",
+                        "group_name":  "Primary",
+                        "PC1":  -43.962990314140335,
+                        "PC2":  -42.85193027453143
+                    },
+                    {
+                        "sample_name":  "GSM_BC_035",
+                        "group_name":  "Primary",
+                        "PC1":  -98.35057405012112,
+                        "PC2":  -92.0448651020144
+                    },
+                    {
+                        "sample_name":  "GSM_BC_036",
+                        "group_name":  "Primary",
+                        "PC1":  -58.66057917584784,
+                        "PC2":  -146.637065197319
+                    },
+                    {
+                        "sample_name":  "GSM_BC_037",
+                        "group_name":  "Primary",
+                        "PC1":  -240.47396463688915,
+                        "PC2":  -59.3480969511855
+                    },
+                    {
+                        "sample_name":  "GSM_BC_038",
+                        "group_name":  "Primary",
+                        "PC1":  -3.6062701912202972,
+                        "PC2":  -140.37172398739355
+                    },
+                    {
+                        "sample_name":  "GSM_BC_039",
+                        "group_name":  "Primary",
+                        "PC1":  -51.604411569878465,
+                        "PC2":  -113.86823827203658
+                    },
+                    {
+                        "sample_name":  "GSM_BC_040",
+                        "group_name":  "Primary",
+                        "PC1":  26.60862436356382,
+                        "PC2":  -45.372208050450105
+                    },
+                    {
+                        "sample_name":  "GSM_BC_041",
+                        "group_name":  "Primary",
+                        "PC1":  -16.39864410414528,
+                        "PC2":  -92.11200590492403
+                    },
+                    {
+                        "sample_name":  "GSM_BC_042",
+                        "group_name":  "Primary",
+                        "PC1":  -2.616964844140864,
+                        "PC2":  -84.27092671226161
+                    },
+                    {
+                        "sample_name":  "GSM_BC_043",
+                        "group_name":  "Primary",
+                        "PC1":  -47.683028271605764,
+                        "PC2":  -39.30049896929168
+                    },
+                    {
+                        "sample_name":  "GSM_BC_044",
+                        "group_name":  "Primary",
+                        "PC1":  17.25621625093175,
+                        "PC2":  -97.00476198058371
+                    },
+                    {
+                        "sample_name":  "GSM_BC_045",
+                        "group_name":  "Primary",
+                        "PC1":  79.12104438629501,
+                        "PC2":  -91.42261748919414
+                    },
+                    {
+                        "sample_name":  "GSM_BC_046",
+                        "group_name":  "Primary",
+                        "PC1":  -11.121150686025464,
+                        "PC2":  -83.83946042827645
+                    },
+                    {
+                        "sample_name":  "GSM_BC_047",
+                        "group_name":  "Primary",
+                        "PC1":  1.3891172392939093,
+                        "PC2":  -141.1530796798041
+                    },
+                    {
+                        "sample_name":  "GSM_BC_048",
+                        "group_name":  "Primary",
+                        "PC1":  20.636294548320738,
+                        "PC2":  -89.72704947450694
+                    },
+                    {
+                        "sample_name":  "GSM_BC_049",
+                        "group_name":  "Primary",
+                        "PC1":  -35.259162295573226,
+                        "PC2":  -53.541701687012
+                    },
+                    {
+                        "sample_name":  "GSM_BC_050",
+                        "group_name":  "Primary",
+                        "PC1":  -82.10617646112684,
+                        "PC2":  -99.52709767863288
+                    },
+                    {
+                        "sample_name":  "GSM_BC_051",
+                        "group_name":  "Primary",
+                        "PC1":  -4.873660628943112,
+                        "PC2":  -113.20511720245636
+                    },
+                    {
+                        "sample_name":  "GSM_BC_052",
+                        "group_name":  "Primary",
+                        "PC1":  -39.110710384552384,
+                        "PC2":  -90.59355942575593
+                    },
+                    {
+                        "sample_name":  "GSM_BC_053",
+                        "group_name":  "Primary",
+                        "PC1":  -30.044841550521927,
+                        "PC2":  -78.96896348220687
+                    },
+                    {
+                        "sample_name":  "GSM_BC_054",
+                        "group_name":  "Primary",
+                        "PC1":  -55.25342287554433,
+                        "PC2":  -78.19696748173008
+                    },
+                    {
+                        "sample_name":  "GSM_BC_055",
+                        "group_name":  "Primary",
+                        "PC1":  -33.82313973417542,
+                        "PC2":  -95.80745283675742
+                    },
+                    {
+                        "sample_name":  "GSM_BC_056",
+                        "group_name":  "Primary",
+                        "PC1":  -18.713300442451736,
+                        "PC2":  -19.068191744698993
+                    },
+                    {
+                        "sample_name":  "GSM_BC_057",
+                        "group_name":  "Primary",
+                        "PC1":  -1.0429204807449948,
+                        "PC2":  -68.84646593460668
+                    },
+                    {
+                        "sample_name":  "GSM_BC_058",
+                        "group_name":  "Primary",
+                        "PC1":  -45.396813171690034,
+                        "PC2":  -70.4914883047298
+                    },
+                    {
+                        "sample_name":  "GSM_BC_059",
+                        "group_name":  "Primary",
+                        "PC1":  -21.447208412605306,
+                        "PC2":  -43.87631556549946
+                    },
+                    {
+                        "sample_name":  "GSM_BC_060",
+                        "group_name":  "Metastatic",
+                        "PC1":  1200.1450476320254,
+                        "PC2":  183.26600638923162
+                    },
+                    {
+                        "sample_name":  "GSM_BC_061",
+                        "group_name":  "Metastatic",
+                        "PC1":  -49.41999563586513,
+                        "PC2":  -101.2175553274206
+                    },
+                    {
+                        "sample_name":  "GSM_BC_062",
+                        "group_name":  "Metastatic",
+                        "PC1":  -60.010424992951336,
+                        "PC2":  -128.03298144720077
+                    },
+                    {
+                        "sample_name":  "GSM_BC_063",
+                        "group_name":  "Metastatic",
+                        "PC1":  12.780006508698532,
+                        "PC2":  125.21283611945093
+                    },
+                    {
+                        "sample_name":  "GSM_BC_064",
+                        "group_name":  "Metastatic",
+                        "PC1":  -73.76980927768747,
+                        "PC2":  303.6166602093432
+                    },
+                    {
+                        "sample_name":  "GSM_BC_065",
+                        "group_name":  "Metastatic",
+                        "PC1":  -33.69550936260348,
+                        "PC2":  -26.386741379274444
+                    },
+                    {
+                        "sample_name":  "GSM_BC_066",
+                        "group_name":  "Metastatic",
+                        "PC1":  0.6946192514272426,
+                        "PC2":  25.150691997651354
+                    },
+                    {
+                        "sample_name":  "GSM_BC_067",
+                        "group_name":  "Metastatic",
+                        "PC1":  139.05068134525607,
+                        "PC2":  -40.07785212408004
+                    },
+                    {
+                        "sample_name":  "GSM_BC_068",
+                        "group_name":  "Metastatic",
+                        "PC1":  7.091946017947842,
+                        "PC2":  -48.895532625735314
+                    },
+                    {
+                        "sample_name":  "GSM_BC_069",
+                        "group_name":  "Metastatic",
+                        "PC1":  1.3372140756468467,
+                        "PC2":  -48.91104513518239
+                    },
+                    {
+                        "sample_name":  "GSM_BC_070",
+                        "group_name":  "Metastatic",
+                        "PC1":  2.099138341588997,
+                        "PC2":  -76.97487100672038
+                    },
+                    {
+                        "sample_name":  "GSM_BC_071",
+                        "group_name":  "Metastatic",
+                        "PC1":  -5.085771312253367,
+                        "PC2":  -82.35502905416823
+                    },
+                    {
+                        "sample_name":  "GSM_BC_072",
+                        "group_name":  "Metastatic",
+                        "PC1":  -27.622136956110527,
+                        "PC2":  -1.6962554535555976
+                    },
+                    {
+                        "sample_name":  "GSM_BC_073",
+                        "group_name":  "Metastatic",
+                        "PC1":  4.301015940803716,
+                        "PC2":  49.36698922953977
+                    },
+                    {
+                        "sample_name":  "GSM_BC_074",
+                        "group_name":  "Metastatic",
+                        "PC1":  35.39627769580721,
+                        "PC2":  -0.3869512828656335
+                    },
+                    {
+                        "sample_name":  "GSM_BC_075",
+                        "group_name":  "Metastatic",
+                        "PC1":  -47.31867728043478,
+                        "PC2":  123.9807206693404
+                    },
+                    {
+                        "sample_name":  "GSM_BC_076",
+                        "group_name":  "Metastatic",
+                        "PC1":  -47.58726578853842,
+                        "PC2":  111.8026888945952
+                    },
+                    {
+                        "sample_name":  "GSM_BC_077",
+                        "group_name":  "Metastatic",
+                        "PC1":  24.985246845456555,
+                        "PC2":  -42.7133732733351
+                    },
+                    {
+                        "sample_name":  "GSM_BC_078",
+                        "group_name":  "Metastatic",
+                        "PC1":  24.871761872611255,
+                        "PC2":  -65.94447690871037
+                    },
+                    {
+                        "sample_name":  "GSM_BC_079",
+                        "group_name":  "Metastatic",
+                        "PC1":  3.97516553774838,
+                        "PC2":  242.50258966560816
+                    },
+                    {
+                        "sample_name":  "GSM_BC_080",
+                        "group_name":  "Metastatic",
+                        "PC1":  -61.74550530709337,
+                        "PC2":  120.82585044353128
+                    },
+                    {
+                        "sample_name":  "GSM_BC_081",
+                        "group_name":  "Metastatic",
+                        "PC1":  24.086797702540586,
+                        "PC2":  -96.99990490537752
+                    },
+                    {
+                        "sample_name":  "GSM_BC_082",
+                        "group_name":  "Metastatic",
+                        "PC1":  -136.18358223171288,
+                        "PC2":  724.3449348215263
+                    },
+                    {
+                        "sample_name":  "GSM_BC_083",
+                        "group_name":  "Metastatic",
+                        "PC1":  -49.39554608275018,
+                        "PC2":  7.232166844487244
+                    },
+                    {
+                        "sample_name":  "GSM_BC_084",
+                        "group_name":  "Metastatic",
+                        "PC1":  -23.87558547264839,
+                        "PC2":  178.50236359964853
+                    },
+                    {
+                        "sample_name":  "GSM_BC_085",
+                        "group_name":  "Metastatic",
+                        "PC1":  -177.11325431430458,
+                        "PC2":  719.9795153241107
+                    },
+                    {
+                        "sample_name":  "GSM_BC_086",
+                        "group_name":  "Metastatic",
+                        "PC1":  -79.28828348363008,
+                        "PC2":  -3.153949750793921
+                    },
+                    {
+                        "sample_name":  "GSM_BC_087",
+                        "group_name":  "Metastatic",
+                        "PC1":  -8.590049102590358,
+                        "PC2":  -73.20394315605672
+                    },
+                    {
+                        "sample_name":  "GSM_BC_088",
+                        "group_name":  "Metastatic",
+                        "PC1":  -96.5486473327942,
+                        "PC2":  152.01309859334023
+                    },
+                    {
+                        "sample_name":  "GSM_BC_089",
+                        "group_name":  "Metastatic",
+                        "PC1":  38.09737329942352,
+                        "PC2":  -107.20926107240426
+                    },
+                    {
+                        "sample_name":  "GSM_BC_090",
+                        "group_name":  "Metastatic",
+                        "PC1":  31.928602935909037,
+                        "PC2":  384.0952579460885
+                    },
+                    {
+                        "sample_name":  "GSM_BC_091",
+                        "group_name":  "Metastatic",
+                        "PC1":  -72.57092424979771,
+                        "PC2":  243.19176026239248
+                    },
+                    {
+                        "sample_name":  "GSM_BC_092",
+                        "group_name":  "Metastatic",
+                        "PC1":  -121.33289346705898,
+                        "PC2":  319.23167822236485
+                    },
+                    {
+                        "sample_name":  "GSM_BC_093",
+                        "group_name":  "Metastatic",
+                        "PC1":  -31.27939518957217,
+                        "PC2":  -2.826186619462207
+                    },
+                    {
+                        "sample_name":  "GSM_BC_094",
+                        "group_name":  "Metastatic",
+                        "PC1":  -23.658710683615244,
+                        "PC2":  41.57701705951048
+                    },
+                    {
+                        "sample_name":  "GSM_BC_095",
+                        "group_name":  "Metastatic",
+                        "PC1":  8.654628586960563,
+                        "PC2":  -33.37903160781817
+                    },
+                    {
+                        "sample_name":  "GSM_BC_096",
+                        "group_name":  "Metastatic",
+                        "PC1":  65.46290599120954,
+                        "PC2":  73.83294110529536
+                    },
+                    {
+                        "sample_name":  "GSM_BC_097",
+                        "group_name":  "Metastatic",
+                        "PC1":  1220.0743117817942,
+                        "PC2":  19.13525951758067
+                    },
+                    {
+                        "sample_name":  "GSM_BC_098",
+                        "group_name":  "Metastatic",
+                        "PC1":  5.520111738917992,
+                        "PC2":  -86.75254748479662
+                    },
+                    {
+                        "sample_name":  "GSM_BC_099",
+                        "group_name":  "Metastatic",
+                        "PC1":  -76.34081277221523,
+                        "PC2":  54.09101203013373
+                    },
+                    {
+                        "sample_name":  "GSM_BC_100",
+                        "group_name":  "Metastatic",
+                        "PC1":  41.23652005870743,
+                        "PC2":  115.0749520758505
+                    },
+                    {
+                        "sample_name":  "GSM_BC_101",
+                        "group_name":  "Metastatic",
+                        "PC1":  -77.55626386347076,
+                        "PC2":  155.596219031581
+                    },
+                    {
+                        "sample_name":  "GSM_BC_102",
+                        "group_name":  "Metastatic",
+                        "PC1":  15.89145160864198,
+                        "PC2":  46.79423561125057
+                    },
+                    {
+                        "sample_name":  "GSM_BC_103",
+                        "group_name":  "Metastatic",
+                        "PC1":  -102.13110792323235,
+                        "PC2":  183.78497629536272
+                    },
+                    {
+                        "sample_name":  "GSM_BC_104",
+                        "group_name":  "Metastatic",
+                        "PC1":  -4.342770231752785,
+                        "PC2":  128.62917375081898
+                    },
+                    {
+                        "sample_name":  "GSM_BC_105",
+                        "group_name":  "Metastatic",
+                        "PC1":  -82.7147951922416,
+                        "PC2":  -48.87275573267555
+                    },
+                    {
+                        "sample_name":  "GSM_BC_106",
+                        "group_name":  "Metastatic",
+                        "PC1":  60.86728332901171,
+                        "PC2":  3.032929634002191
+                    },
+                    {
+                        "sample_name":  "GSM_BC_107",
+                        "group_name":  "Metastatic",
+                        "PC1":  -120.57711418587215,
+                        "PC2":  154.88088263562315
+                    },
+                    {
+                        "sample_name":  "GSM_BC_108",
+                        "group_name":  "Metastatic",
+                        "PC1":  6.285033009093402,
+                        "PC2":  4.849248497448124
+                    },
+                    {
+                        "sample_name":  "GSM_BC_109",
+                        "group_name":  "Metastatic",
+                        "PC1":  -0.15391883875121698,
+                        "PC2":  558.3614038185115
+                    },
+                    {
+                        "sample_name":  "GSM_BC_110",
+                        "group_name":  "Metastatic",
+                        "PC1":  -59.79694318594746,
+                        "PC2":  11.651129262641803
+                    },
+                    {
+                        "sample_name":  "GSM_BC_111",
+                        "group_name":  "Metastatic",
+                        "PC1":  -7.914610211038303,
+                        "PC2":  370.92657692111413
+                    },
+                    {
+                        "sample_name":  "GSM_BC_112",
+                        "group_name":  "Metastatic",
+                        "PC1":  -21.137078254506108,
+                        "PC2":  -27.97216068998448
+                    },
+                    {
+                        "sample_name":  "GSM_BC_113",
+                        "group_name":  "Metastatic",
+                        "PC1":  22.393535987404046,
+                        "PC2":  21.413573063401422
+                    },
+                    {
+                        "sample_name":  "GSM_BC_114",
+                        "group_name":  "Metastatic",
+                        "PC1":  184.81172510934084,
+                        "PC2":  48.05920315780971
+                    },
+                    {
+                        "sample_name":  "GSM_BC_115",
+                        "group_name":  "Metastatic",
+                        "PC1":  -1.3851789630600917,
+                        "PC2":  165.75514358929684
+                    },
+                    {
+                        "sample_name":  "GSM_BC_116",
+                        "group_name":  "Metastatic",
+                        "PC1":  99.51806799128596,
+                        "PC2":  86.27655412219184
+                    },
+                    {
+                        "sample_name":  "GSM_BC_117",
+                        "group_name":  "Metastatic",
+                        "PC1":  115.01974180850533,
+                        "PC2":  -65.05348190130307
+                    },
+                    {
+                        "sample_name":  "GSM_BC_118",
+                        "group_name":  "Metastatic",
+                        "PC1":  -7.7475145949542705,
+                        "PC2":  -26.31180258935397
+                    },
+                    {
+                        "sample_name":  "GSM_BC_119",
+                        "group_name":  "Metastatic",
+                        "PC1":  2.714979295737,
+                        "PC2":  -43.435960767713105
+                    }
+                ]
+}

@@ -1,0 +1,2175 @@
+﻿{
+    "value":  [
+                  {
+                      "Gene":  "TP53 target 1",
+                      "logFC":  1.627868,
+                      "p_value":  0.0,
+                      "-log10(p_value)":  7.422779,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "TP53 induced nuclear protein 1",
+                      "logFC":  1.599436,
+                      "p_value":  2E-06,
+                      "-log10(p_value)":  5.809849,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "stathmin 1",
+                      "logFC":  1.51886,
+                      "p_value":  3E-05,
+                      "-log10(p_value)":  4.523387,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "TP53 regulated inhibitor of apoptosis 1",
+                      "logFC":  1.469664,
+                      "p_value":  0.000169,
+                      "-log10(p_value)":  3.770842,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "C-C motif chemokine ligand 5",
+                      "logFC":  1.304681,
+                      "p_value":  0.00022,
+                      "-log10(p_value)":  3.65742,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "mitogen-activated protein kinase 1",
+                      "logFC":  1.521606,
+                      "p_value":  0.000291,
+                      "-log10(p_value)":  3.535866,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "BCL2 like 11",
+                      "logFC":  1.718306,
+                      "p_value":  0.001252,
+                      "-log10(p_value)":  2.90244,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "gene_87",
+                      "logFC":  0.822743,
+                      "p_value":  0.001922,
+                      "-log10(p_value)":  2.716338,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "TP53 induced glycolysis regulatory phosphatase",
+                      "logFC":  1.395838,
+                      "p_value":  0.002995,
+                      "-log10(p_value)":  2.523661,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "gene_245",
+                      "logFC":  0.596065,
+                      "p_value":  0.009422,
+                      "-log10(p_value)":  2.025836,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_241",
+                      "logFC":  0.605476,
+                      "p_value":  0.009922,
+                      "-log10(p_value)":  2.003409,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "cyclin dependent kinase 8",
+                      "logFC":  0.902492,
+                      "p_value":  0.013957,
+                      "-log10(p_value)":  1.855215,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_41",
+                      "logFC":  -0.949819,
+                      "p_value":  0.0142,
+                      "-log10(p_value)":  1.847712,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_228",
+                      "logFC":  0.570485,
+                      "p_value":  0.020853,
+                      "-log10(p_value)":  1.680822,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_218",
+                      "logFC":  -0.590529,
+                      "p_value":  0.022335,
+                      "-log10(p_value)":  1.651016,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "tumor protein p53",
+                      "logFC":  1.419533,
+                      "p_value":  0.02777,
+                      "-log10(p_value)":  1.556418,
+                      "Regulation":  "Upregulated"
+                  },
+                  {
+                      "Gene":  "gene_271",
+                      "logFC":  -0.689138,
+                      "p_value":  0.029395,
+                      "-log10(p_value)":  1.531724,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_232",
+                      "logFC":  0.658996,
+                      "p_value":  0.031069,
+                      "-log10(p_value)":  1.507672,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_36",
+                      "logFC":  0.693573,
+                      "p_value":  0.034915,
+                      "-log10(p_value)":  1.456987,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_193",
+                      "logFC":  -0.701592,
+                      "p_value":  0.036491,
+                      "-log10(p_value)":  1.43782,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_2",
+                      "logFC":  -0.525679,
+                      "p_value":  0.038407,
+                      "-log10(p_value)":  1.41559,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_173",
+                      "logFC":  0.763626,
+                      "p_value":  0.044176,
+                      "-log10(p_value)":  1.354815,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_247",
+                      "logFC":  -0.736061,
+                      "p_value":  0.045751,
+                      "-log10(p_value)":  1.339595,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_39",
+                      "logFC":  -0.546793,
+                      "p_value":  0.05885,
+                      "-log10(p_value)":  1.230253,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_182",
+                      "logFC":  0.991119,
+                      "p_value":  0.061174,
+                      "-log10(p_value)":  1.213433,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_53",
+                      "logFC":  0.652525,
+                      "p_value":  0.061385,
+                      "-log10(p_value)":  1.211939,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_52",
+                      "logFC":  0.531783,
+                      "p_value":  0.066635,
+                      "-log10(p_value)":  1.176299,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_126",
+                      "logFC":  -0.608055,
+                      "p_value":  0.069401,
+                      "-log10(p_value)":  1.158632,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_4",
+                      "logFC":  0.540409,
+                      "p_value":  0.070011,
+                      "-log10(p_value)":  1.154836,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_140",
+                      "logFC":  0.518209,
+                      "p_value":  0.071916,
+                      "-log10(p_value)":  1.143174,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_18",
+                      "logFC":  -0.558201,
+                      "p_value":  0.076205,
+                      "-log10(p_value)":  1.118017,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_290",
+                      "logFC":  0.458432,
+                      "p_value":  0.076836,
+                      "-log10(p_value)":  1.114437,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_23",
+                      "logFC":  0.627767,
+                      "p_value":  0.077977,
+                      "-log10(p_value)":  1.108033,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_225",
+                      "logFC":  0.520642,
+                      "p_value":  0.082128,
+                      "-log10(p_value)":  1.085507,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_175",
+                      "logFC":  0.625251,
+                      "p_value":  0.083391,
+                      "-log10(p_value)":  1.078883,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_112",
+                      "logFC":  -0.396266,
+                      "p_value":  0.084977,
+                      "-log10(p_value)":  1.070698,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_169",
+                      "logFC":  -0.616485,
+                      "p_value":  0.086815,
+                      "-log10(p_value)":  1.061407,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_276",
+                      "logFC":  0.561883,
+                      "p_value":  0.088059,
+                      "-log10(p_value)":  1.055228,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_287",
+                      "logFC":  0.573122,
+                      "p_value":  0.088598,
+                      "-log10(p_value)":  1.052577,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_154",
+                      "logFC":  -0.457961,
+                      "p_value":  0.08872,
+                      "-log10(p_value)":  1.051981,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_47",
+                      "logFC":  0.446345,
+                      "p_value":  0.088725,
+                      "-log10(p_value)":  1.051954,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_237",
+                      "logFC":  0.525263,
+                      "p_value":  0.088788,
+                      "-log10(p_value)":  1.051644,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_192",
+                      "logFC":  -0.793084,
+                      "p_value":  0.090616,
+                      "-log10(p_value)":  1.042793,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_57",
+                      "logFC":  -0.791516,
+                      "p_value":  0.093459,
+                      "-log10(p_value)":  1.029377,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_288",
+                      "logFC":  0.76683,
+                      "p_value":  0.097708,
+                      "-log10(p_value)":  1.010071,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_293",
+                      "logFC":  1.048969,
+                      "p_value":  0.105654,
+                      "-log10(p_value)":  0.976113,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_13",
+                      "logFC":  0.522737,
+                      "p_value":  0.105997,
+                      "-log10(p_value)":  0.974705,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_25",
+                      "logFC":  0.467696,
+                      "p_value":  0.108662,
+                      "-log10(p_value)":  0.963921,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_137",
+                      "logFC":  0.415895,
+                      "p_value":  0.109592,
+                      "-log10(p_value)":  0.960221,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_138",
+                      "logFC":  -0.36792,
+                      "p_value":  0.118455,
+                      "-log10(p_value)":  0.926447,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_203",
+                      "logFC":  -0.438757,
+                      "p_value":  0.118506,
+                      "-log10(p_value)":  0.92626,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_289",
+                      "logFC":  -0.545373,
+                      "p_value":  0.122182,
+                      "-log10(p_value)":  0.912994,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_160",
+                      "logFC":  0.811381,
+                      "p_value":  0.125536,
+                      "-log10(p_value)":  0.901232,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_280",
+                      "logFC":  -0.480302,
+                      "p_value":  0.137851,
+                      "-log10(p_value)":  0.86059,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_93",
+                      "logFC":  -0.57301,
+                      "p_value":  0.14157,
+                      "-log10(p_value)":  0.849028,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_40",
+                      "logFC":  -0.433529,
+                      "p_value":  0.147539,
+                      "-log10(p_value)":  0.831093,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_95",
+                      "logFC":  -0.380037,
+                      "p_value":  0.147619,
+                      "-log10(p_value)":  0.830857,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_166",
+                      "logFC":  -0.484229,
+                      "p_value":  0.150887,
+                      "-log10(p_value)":  0.821348,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_164",
+                      "logFC":  0.425876,
+                      "p_value":  0.15211,
+                      "-log10(p_value)":  0.817843,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_196",
+                      "logFC":  -0.390139,
+                      "p_value":  0.15302,
+                      "-log10(p_value)":  0.815251,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_159",
+                      "logFC":  -0.480809,
+                      "p_value":  0.153142,
+                      "-log10(p_value)":  0.814907,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_199",
+                      "logFC":  -0.518864,
+                      "p_value":  0.15987,
+                      "-log10(p_value)":  0.796233,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_61",
+                      "logFC":  0.295605,
+                      "p_value":  0.160162,
+                      "-log10(p_value)":  0.795442,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_63",
+                      "logFC":  -0.504285,
+                      "p_value":  0.161034,
+                      "-log10(p_value)":  0.793082,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_282",
+                      "logFC":  -0.409863,
+                      "p_value":  0.161108,
+                      "-log10(p_value)":  0.792884,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_177",
+                      "logFC":  0.460884,
+                      "p_value":  0.164277,
+                      "-log10(p_value)":  0.784423,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_165",
+                      "logFC":  0.417642,
+                      "p_value":  0.167533,
+                      "-log10(p_value)":  0.775898,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_6",
+                      "logFC":  0.391611,
+                      "p_value":  0.168035,
+                      "-log10(p_value)":  0.774601,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_261",
+                      "logFC":  0.537565,
+                      "p_value":  0.168402,
+                      "-log10(p_value)":  0.773654,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_68",
+                      "logFC":  0.467502,
+                      "p_value":  0.169695,
+                      "-log10(p_value)":  0.77033,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_88",
+                      "logFC":  0.430679,
+                      "p_value":  0.175335,
+                      "-log10(p_value)":  0.756131,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_55",
+                      "logFC":  -0.333235,
+                      "p_value":  0.176905,
+                      "-log10(p_value)":  0.75226,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_222",
+                      "logFC":  0.405851,
+                      "p_value":  0.177115,
+                      "-log10(p_value)":  0.751744,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_253",
+                      "logFC":  0.409346,
+                      "p_value":  0.178744,
+                      "-log10(p_value)":  0.747768,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_220",
+                      "logFC":  0.505641,
+                      "p_value":  0.181346,
+                      "-log10(p_value)":  0.741493,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_37",
+                      "logFC":  -0.363275,
+                      "p_value":  0.181602,
+                      "-log10(p_value)":  0.740879,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_229",
+                      "logFC":  0.420092,
+                      "p_value":  0.186733,
+                      "-log10(p_value)":  0.72878,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_44",
+                      "logFC":  -0.314406,
+                      "p_value":  0.189416,
+                      "-log10(p_value)":  0.722584,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_113",
+                      "logFC":  -0.335811,
+                      "p_value":  0.197531,
+                      "-log10(p_value)":  0.704365,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_1",
+                      "logFC":  -0.497905,
+                      "p_value":  0.198407,
+                      "-log10(p_value)":  0.702444,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_14",
+                      "logFC":  -0.47457,
+                      "p_value":  0.19973,
+                      "-log10(p_value)":  0.699556,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_5",
+                      "logFC":  -0.433187,
+                      "p_value":  0.200145,
+                      "-log10(p_value)":  0.698655,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_178",
+                      "logFC":  -0.491056,
+                      "p_value":  0.200566,
+                      "-log10(p_value)":  0.697743,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_258",
+                      "logFC":  -0.383997,
+                      "p_value":  0.202621,
+                      "-log10(p_value)":  0.693316,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_246",
+                      "logFC":  0.470542,
+                      "p_value":  0.20809,
+                      "-log10(p_value)":  0.68175,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_24",
+                      "logFC":  -0.449557,
+                      "p_value":  0.209061,
+                      "-log10(p_value)":  0.679728,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_80",
+                      "logFC":  0.30397,
+                      "p_value":  0.210813,
+                      "-log10(p_value)":  0.676103,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_71",
+                      "logFC":  0.390013,
+                      "p_value":  0.211774,
+                      "-log10(p_value)":  0.674127,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_108",
+                      "logFC":  0.353337,
+                      "p_value":  0.216128,
+                      "-log10(p_value)":  0.665289,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_249",
+                      "logFC":  0.339166,
+                      "p_value":  0.218011,
+                      "-log10(p_value)":  0.661522,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_86",
+                      "logFC":  0.32912,
+                      "p_value":  0.223273,
+                      "-log10(p_value)":  0.651163,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_235",
+                      "logFC":  0.351326,
+                      "p_value":  0.223559,
+                      "-log10(p_value)":  0.650608,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_167",
+                      "logFC":  0.384837,
+                      "p_value":  0.225984,
+                      "-log10(p_value)":  0.645922,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_231",
+                      "logFC":  -0.306316,
+                      "p_value":  0.229577,
+                      "-log10(p_value)":  0.639071,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_257",
+                      "logFC":  0.397185,
+                      "p_value":  0.246126,
+                      "-log10(p_value)":  0.608842,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_179",
+                      "logFC":  0.392575,
+                      "p_value":  0.249471,
+                      "-log10(p_value)":  0.602981,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_134",
+                      "logFC":  0.296579,
+                      "p_value":  0.254321,
+                      "-log10(p_value)":  0.594617,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_33",
+                      "logFC":  -0.363812,
+                      "p_value":  0.26369,
+                      "-log10(p_value)":  0.578906,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_136",
+                      "logFC":  0.361814,
+                      "p_value":  0.263976,
+                      "-log10(p_value)":  0.578435,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_278",
+                      "logFC":  -0.37057,
+                      "p_value":  0.265561,
+                      "-log10(p_value)":  0.575836,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_74",
+                      "logFC":  0.292669,
+                      "p_value":  0.276975,
+                      "-log10(p_value)":  0.557559,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_224",
+                      "logFC":  0.333154,
+                      "p_value":  0.277842,
+                      "-log10(p_value)":  0.556202,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_92",
+                      "logFC":  0.331607,
+                      "p_value":  0.28042,
+                      "-log10(p_value)":  0.552191,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_264",
+                      "logFC":  0.394924,
+                      "p_value":  0.281348,
+                      "-log10(p_value)":  0.550757,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_123",
+                      "logFC":  -0.320823,
+                      "p_value":  0.283384,
+                      "-log10(p_value)":  0.547624,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_149",
+                      "logFC":  -0.319978,
+                      "p_value":  0.286135,
+                      "-log10(p_value)":  0.543429,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_99",
+                      "logFC":  -0.336115,
+                      "p_value":  0.288121,
+                      "-log10(p_value)":  0.540425,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_84",
+                      "logFC":  0.272019,
+                      "p_value":  0.299308,
+                      "-log10(p_value)":  0.523882,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_187",
+                      "logFC":  0.414914,
+                      "p_value":  0.303719,
+                      "-log10(p_value)":  0.517528,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_263",
+                      "logFC":  0.275422,
+                      "p_value":  0.305766,
+                      "-log10(p_value)":  0.514611,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_201",
+                      "logFC":  -0.302401,
+                      "p_value":  0.30691,
+                      "-log10(p_value)":  0.512989,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_174",
+                      "logFC":  -0.25993,
+                      "p_value":  0.307729,
+                      "-log10(p_value)":  0.511832,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_272",
+                      "logFC":  -0.313906,
+                      "p_value":  0.309205,
+                      "-log10(p_value)":  0.509753,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_176",
+                      "logFC":  0.29874,
+                      "p_value":  0.309546,
+                      "-log10(p_value)":  0.509275,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_195",
+                      "logFC":  0.271384,
+                      "p_value":  0.313794,
+                      "-log10(p_value)":  0.503355,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_21",
+                      "logFC":  0.24563,
+                      "p_value":  0.32834,
+                      "-log10(p_value)":  0.483677,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_157",
+                      "logFC":  -0.339819,
+                      "p_value":  0.333558,
+                      "-log10(p_value)":  0.476828,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_31",
+                      "logFC":  -0.61318,
+                      "p_value":  0.343857,
+                      "-log10(p_value)":  0.463622,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_16",
+                      "logFC":  0.649293,
+                      "p_value":  0.345195,
+                      "-log10(p_value)":  0.461935,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_206",
+                      "logFC":  0.30953,
+                      "p_value":  0.348252,
+                      "-log10(p_value)":  0.458106,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_49",
+                      "logFC":  0.328507,
+                      "p_value":  0.348859,
+                      "-log10(p_value)":  0.457351,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_115",
+                      "logFC":  -0.253515,
+                      "p_value":  0.349426,
+                      "-log10(p_value)":  0.456645,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_128",
+                      "logFC":  -0.250395,
+                      "p_value":  0.35102,
+                      "-log10(p_value)":  0.454668,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_208",
+                      "logFC":  0.28926,
+                      "p_value":  0.35652,
+                      "-log10(p_value)":  0.447916,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_266",
+                      "logFC":  0.415086,
+                      "p_value":  0.358647,
+                      "-log10(p_value)":  0.445332,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_294",
+                      "logFC":  0.292209,
+                      "p_value":  0.358984,
+                      "-log10(p_value)":  0.444925,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_73",
+                      "logFC":  -0.368092,
+                      "p_value":  0.362779,
+                      "-log10(p_value)":  0.440358,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_297",
+                      "logFC":  0.249917,
+                      "p_value":  0.364275,
+                      "-log10(p_value)":  0.43857,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_236",
+                      "logFC":  -0.320154,
+                      "p_value":  0.373202,
+                      "-log10(p_value)":  0.428056,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_268",
+                      "logFC":  -0.28479,
+                      "p_value":  0.37746,
+                      "-log10(p_value)":  0.42313,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_188",
+                      "logFC":  0.321444,
+                      "p_value":  0.379902,
+                      "-log10(p_value)":  0.420328,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_64",
+                      "logFC":  0.298274,
+                      "p_value":  0.387232,
+                      "-log10(p_value)":  0.412029,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_191",
+                      "logFC":  -0.305621,
+                      "p_value":  0.391283,
+                      "-log10(p_value)":  0.407508,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_10",
+                      "logFC":  -0.25415,
+                      "p_value":  0.392124,
+                      "-log10(p_value)":  0.406577,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_19",
+                      "logFC":  -0.27147,
+                      "p_value":  0.394809,
+                      "-log10(p_value)":  0.403613,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_125",
+                      "logFC":  -0.246734,
+                      "p_value":  0.401618,
+                      "-log10(p_value)":  0.396187,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_76",
+                      "logFC":  -0.241422,
+                      "p_value":  0.402271,
+                      "-log10(p_value)":  0.395481,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_145",
+                      "logFC":  0.342886,
+                      "p_value":  0.404684,
+                      "-log10(p_value)":  0.392884,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_102",
+                      "logFC":  0.203134,
+                      "p_value":  0.408226,
+                      "-log10(p_value)":  0.389099,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_20",
+                      "logFC":  -0.217803,
+                      "p_value":  0.412086,
+                      "-log10(p_value)":  0.385013,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_121",
+                      "logFC":  0.216382,
+                      "p_value":  0.423916,
+                      "-log10(p_value)":  0.372721,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_54",
+                      "logFC":  0.2851,
+                      "p_value":  0.430605,
+                      "-log10(p_value)":  0.36592,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_226",
+                      "logFC":  -0.313249,
+                      "p_value":  0.430645,
+                      "-log10(p_value)":  0.365881,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_198",
+                      "logFC":  0.218816,
+                      "p_value":  0.430732,
+                      "-log10(p_value)":  0.365792,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_91",
+                      "logFC":  -0.243917,
+                      "p_value":  0.430885,
+                      "-log10(p_value)":  0.365639,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_219",
+                      "logFC":  -0.250081,
+                      "p_value":  0.434305,
+                      "-log10(p_value)":  0.362205,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_233",
+                      "logFC":  0.224353,
+                      "p_value":  0.434708,
+                      "-log10(p_value)":  0.361803,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_117",
+                      "logFC":  0.244226,
+                      "p_value":  0.437241,
+                      "-log10(p_value)":  0.359279,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_56",
+                      "logFC":  -0.265328,
+                      "p_value":  0.440152,
+                      "-log10(p_value)":  0.356398,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_7",
+                      "logFC":  0.180438,
+                      "p_value":  0.440612,
+                      "-log10(p_value)":  0.355943,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_172",
+                      "logFC":  0.197551,
+                      "p_value":  0.442773,
+                      "-log10(p_value)":  0.353819,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_217",
+                      "logFC":  0.297603,
+                      "p_value":  0.445234,
+                      "-log10(p_value)":  0.351411,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_34",
+                      "logFC":  0.311811,
+                      "p_value":  0.450068,
+                      "-log10(p_value)":  0.346722,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_129",
+                      "logFC":  0.209254,
+                      "p_value":  0.450583,
+                      "-log10(p_value)":  0.346225,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_296",
+                      "logFC":  0.30042,
+                      "p_value":  0.450844,
+                      "-log10(p_value)":  0.345974,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_119",
+                      "logFC":  -0.520703,
+                      "p_value":  0.451761,
+                      "-log10(p_value)":  0.345091,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_183",
+                      "logFC":  -0.232104,
+                      "p_value":  0.455158,
+                      "-log10(p_value)":  0.341837,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_207",
+                      "logFC":  0.196348,
+                      "p_value":  0.457009,
+                      "-log10(p_value)":  0.340075,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_292",
+                      "logFC":  0.286306,
+                      "p_value":  0.460555,
+                      "-log10(p_value)":  0.336719,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_162",
+                      "logFC":  -0.237876,
+                      "p_value":  0.461739,
+                      "-log10(p_value)":  0.335603,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_82",
+                      "logFC":  0.225134,
+                      "p_value":  0.462494,
+                      "-log10(p_value)":  0.334894,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_3",
+                      "logFC":  -0.203818,
+                      "p_value":  0.464869,
+                      "-log10(p_value)":  0.332669,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_30",
+                      "logFC":  -0.259223,
+                      "p_value":  0.465536,
+                      "-log10(p_value)":  0.332047,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_0",
+                      "logFC":  0.239572,
+                      "p_value":  0.46588,
+                      "-log10(p_value)":  0.331726,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_181",
+                      "logFC":  0.205458,
+                      "p_value":  0.46991,
+                      "-log10(p_value)":  0.327985,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_90",
+                      "logFC":  0.222565,
+                      "p_value":  0.472117,
+                      "-log10(p_value)":  0.32595,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_35",
+                      "logFC":  0.220655,
+                      "p_value":  0.483699,
+                      "-log10(p_value)":  0.315425,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_12",
+                      "logFC":  0.257855,
+                      "p_value":  0.491633,
+                      "-log10(p_value)":  0.308359,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_267",
+                      "logFC":  0.176324,
+                      "p_value":  0.491886,
+                      "-log10(p_value)":  0.308135,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_211",
+                      "logFC":  0.213797,
+                      "p_value":  0.491917,
+                      "-log10(p_value)":  0.308109,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_158",
+                      "logFC":  -0.258008,
+                      "p_value":  0.492648,
+                      "-log10(p_value)":  0.307463,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_284",
+                      "logFC":  -0.243449,
+                      "p_value":  0.492802,
+                      "-log10(p_value)":  0.307327,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_75",
+                      "logFC":  -0.198732,
+                      "p_value":  0.502169,
+                      "-log10(p_value)":  0.29915,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_116",
+                      "logFC":  -0.155225,
+                      "p_value":  0.505859,
+                      "-log10(p_value)":  0.295971,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_210",
+                      "logFC":  0.168037,
+                      "p_value":  0.514293,
+                      "-log10(p_value)":  0.288789,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_94",
+                      "logFC":  0.157085,
+                      "p_value":  0.520502,
+                      "-log10(p_value)":  0.283577,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_209",
+                      "logFC":  0.192242,
+                      "p_value":  0.53076,
+                      "-log10(p_value)":  0.275102,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_27",
+                      "logFC":  -0.166007,
+                      "p_value":  0.531555,
+                      "-log10(p_value)":  0.274452,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_171",
+                      "logFC":  0.229497,
+                      "p_value":  0.537172,
+                      "-log10(p_value)":  0.269886,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_81",
+                      "logFC":  -0.193779,
+                      "p_value":  0.550564,
+                      "-log10(p_value)":  0.259193,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_152",
+                      "logFC":  0.219947,
+                      "p_value":  0.552666,
+                      "-log10(p_value)":  0.257537,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_259",
+                      "logFC":  0.229154,
+                      "p_value":  0.559305,
+                      "-log10(p_value)":  0.252352,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_251",
+                      "logFC":  -0.11901,
+                      "p_value":  0.565784,
+                      "-log10(p_value)":  0.247349,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_204",
+                      "logFC":  0.213306,
+                      "p_value":  0.566447,
+                      "-log10(p_value)":  0.246841,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_223",
+                      "logFC":  0.186987,
+                      "p_value":  0.569987,
+                      "-log10(p_value)":  0.244135,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_104",
+                      "logFC":  -0.193356,
+                      "p_value":  0.570629,
+                      "-log10(p_value)":  0.243646,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_286",
+                      "logFC":  0.246776,
+                      "p_value":  0.574641,
+                      "-log10(p_value)":  0.240603,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_45",
+                      "logFC":  -0.146532,
+                      "p_value":  0.576302,
+                      "-log10(p_value)":  0.23935,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_111",
+                      "logFC":  -0.241628,
+                      "p_value":  0.580556,
+                      "-log10(p_value)":  0.236156,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_279",
+                      "logFC":  -0.131663,
+                      "p_value":  0.581034,
+                      "-log10(p_value)":  0.235799,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_168",
+                      "logFC":  0.134941,
+                      "p_value":  0.583133,
+                      "-log10(p_value)":  0.234232,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_109",
+                      "logFC":  -0.142484,
+                      "p_value":  0.585412,
+                      "-log10(p_value)":  0.232538,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_28",
+                      "logFC":  0.139787,
+                      "p_value":  0.585552,
+                      "-log10(p_value)":  0.232435,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_254",
+                      "logFC":  0.145039,
+                      "p_value":  0.589018,
+                      "-log10(p_value)":  0.229871,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_150",
+                      "logFC":  -0.161094,
+                      "p_value":  0.59576,
+                      "-log10(p_value)":  0.224929,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_151",
+                      "logFC":  -0.148553,
+                      "p_value":  0.598033,
+                      "-log10(p_value)":  0.223275,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_139",
+                      "logFC":  -0.16092,
+                      "p_value":  0.599933,
+                      "-log10(p_value)":  0.221897,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_105",
+                      "logFC":  -0.149439,
+                      "p_value":  0.604625,
+                      "-log10(p_value)":  0.218514,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_122",
+                      "logFC":  0.137603,
+                      "p_value":  0.605747,
+                      "-log10(p_value)":  0.217709,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_66",
+                      "logFC":  -0.176333,
+                      "p_value":  0.6113,
+                      "-log10(p_value)":  0.213746,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_285",
+                      "logFC":  0.140771,
+                      "p_value":  0.614526,
+                      "-log10(p_value)":  0.21146,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_141",
+                      "logFC":  0.150178,
+                      "p_value":  0.624834,
+                      "-log10(p_value)":  0.204236,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_205",
+                      "logFC":  0.123593,
+                      "p_value":  0.627494,
+                      "-log10(p_value)":  0.20239,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_51",
+                      "logFC":  0.117123,
+                      "p_value":  0.634968,
+                      "-log10(p_value)":  0.197248,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_120",
+                      "logFC":  -0.161333,
+                      "p_value":  0.636001,
+                      "-log10(p_value)":  0.196542,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_283",
+                      "logFC":  0.130568,
+                      "p_value":  0.638179,
+                      "-log10(p_value)":  0.195057,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_131",
+                      "logFC":  -0.109246,
+                      "p_value":  0.641233,
+                      "-log10(p_value)":  0.192984,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_180",
+                      "logFC":  0.137808,
+                      "p_value":  0.643279,
+                      "-log10(p_value)":  0.191601,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_15",
+                      "logFC":  0.176361,
+                      "p_value":  0.643838,
+                      "-log10(p_value)":  0.191223,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_127",
+                      "logFC":  0.170468,
+                      "p_value":  0.648114,
+                      "-log10(p_value)":  0.188348,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_163",
+                      "logFC":  0.121738,
+                      "p_value":  0.648711,
+                      "-log10(p_value)":  0.187949,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_275",
+                      "logFC":  -0.147303,
+                      "p_value":  0.650146,
+                      "-log10(p_value)":  0.186989,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_153",
+                      "logFC":  -0.135395,
+                      "p_value":  0.65529,
+                      "-log10(p_value)":  0.183566,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_72",
+                      "logFC":  0.128309,
+                      "p_value":  0.656414,
+                      "-log10(p_value)":  0.182822,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_43",
+                      "logFC":  -0.10209,
+                      "p_value":  0.661342,
+                      "-log10(p_value)":  0.179574,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_69",
+                      "logFC":  -0.118652,
+                      "p_value":  0.661618,
+                      "-log10(p_value)":  0.179393,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_186",
+                      "logFC":  0.133517,
+                      "p_value":  0.662239,
+                      "-log10(p_value)":  0.178985,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_97",
+                      "logFC":  0.136102,
+                      "p_value":  0.665877,
+                      "-log10(p_value)":  0.176606,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_8",
+                      "logFC":  -0.185705,
+                      "p_value":  0.669827,
+                      "-log10(p_value)":  0.174037,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_244",
+                      "logFC":  0.11367,
+                      "p_value":  0.67144,
+                      "-log10(p_value)":  0.172993,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_96",
+                      "logFC":  0.164635,
+                      "p_value":  0.672219,
+                      "-log10(p_value)":  0.172489,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_274",
+                      "logFC":  -0.143164,
+                      "p_value":  0.67289,
+                      "-log10(p_value)":  0.172056,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_281",
+                      "logFC":  0.111804,
+                      "p_value":  0.67475,
+                      "-log10(p_value)":  0.170857,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_215",
+                      "logFC":  -0.158876,
+                      "p_value":  0.682012,
+                      "-log10(p_value)":  0.166208,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_270",
+                      "logFC":  0.129803,
+                      "p_value":  0.686526,
+                      "-log10(p_value)":  0.163343,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_29",
+                      "logFC":  0.102362,
+                      "p_value":  0.68787,
+                      "-log10(p_value)":  0.162494,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_32",
+                      "logFC":  -0.118976,
+                      "p_value":  0.690674,
+                      "-log10(p_value)":  0.160727,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_114",
+                      "logFC":  -0.120479,
+                      "p_value":  0.694754,
+                      "-log10(p_value)":  0.158169,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_238",
+                      "logFC":  0.15344,
+                      "p_value":  0.703972,
+                      "-log10(p_value)":  0.152445,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_22",
+                      "logFC":  0.101965,
+                      "p_value":  0.704167,
+                      "-log10(p_value)":  0.152324,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_89",
+                      "logFC":  -0.135785,
+                      "p_value":  0.711985,
+                      "-log10(p_value)":  0.147529,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_202",
+                      "logFC":  0.106403,
+                      "p_value":  0.714893,
+                      "-log10(p_value)":  0.145759,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_212",
+                      "logFC":  0.144978,
+                      "p_value":  0.716065,
+                      "-log10(p_value)":  0.145048,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_83",
+                      "logFC":  -0.105829,
+                      "p_value":  0.71759,
+                      "-log10(p_value)":  0.144124,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_26",
+                      "logFC":  -0.107656,
+                      "p_value":  0.71786,
+                      "-log10(p_value)":  0.14396,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_79",
+                      "logFC":  0.087525,
+                      "p_value":  0.71801,
+                      "-log10(p_value)":  0.14387,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_143",
+                      "logFC":  -0.144016,
+                      "p_value":  0.718581,
+                      "-log10(p_value)":  0.143524,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_252",
+                      "logFC":  -0.126543,
+                      "p_value":  0.720111,
+                      "-log10(p_value)":  0.1426,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_110",
+                      "logFC":  -0.119637,
+                      "p_value":  0.724932,
+                      "-log10(p_value)":  0.139703,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_260",
+                      "logFC":  -0.091248,
+                      "p_value":  0.72656,
+                      "-log10(p_value)":  0.138728,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_243",
+                      "logFC":  0.093451,
+                      "p_value":  0.728937,
+                      "-log10(p_value)":  0.13731,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_62",
+                      "logFC":  0.127944,
+                      "p_value":  0.733022,
+                      "-log10(p_value)":  0.134883,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_130",
+                      "logFC":  -0.129343,
+                      "p_value":  0.735609,
+                      "-log10(p_value)":  0.133353,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_200",
+                      "logFC":  0.097395,
+                      "p_value":  0.741234,
+                      "-log10(p_value)":  0.130044,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_189",
+                      "logFC":  0.124235,
+                      "p_value":  0.742948,
+                      "-log10(p_value)":  0.129041,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_58",
+                      "logFC":  0.089513,
+                      "p_value":  0.743985,
+                      "-log10(p_value)":  0.128436,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_234",
+                      "logFC":  -0.085572,
+                      "p_value":  0.747562,
+                      "-log10(p_value)":  0.126353,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_106",
+                      "logFC":  -0.103883,
+                      "p_value":  0.750368,
+                      "-log10(p_value)":  0.124726,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_269",
+                      "logFC":  0.091042,
+                      "p_value":  0.75199,
+                      "-log10(p_value)":  0.123788,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_142",
+                      "logFC":  0.094449,
+                      "p_value":  0.752361,
+                      "-log10(p_value)":  0.123574,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_161",
+                      "logFC":  0.071996,
+                      "p_value":  0.760421,
+                      "-log10(p_value)":  0.118946,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_295",
+                      "logFC":  0.126289,
+                      "p_value":  0.764826,
+                      "-log10(p_value)":  0.116437,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_146",
+                      "logFC":  -0.078,
+                      "p_value":  0.767066,
+                      "-log10(p_value)":  0.115167,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_299",
+                      "logFC":  -0.073086,
+                      "p_value":  0.777567,
+                      "-log10(p_value)":  0.109262,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_273",
+                      "logFC":  -0.107466,
+                      "p_value":  0.780324,
+                      "-log10(p_value)":  0.107725,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_227",
+                      "logFC":  -0.095439,
+                      "p_value":  0.782978,
+                      "-log10(p_value)":  0.106251,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_78",
+                      "logFC":  -0.078083,
+                      "p_value":  0.787603,
+                      "-log10(p_value)":  0.103693,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_133",
+                      "logFC":  -0.074699,
+                      "p_value":  0.792407,
+                      "-log10(p_value)":  0.101052,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_291",
+                      "logFC":  -0.080098,
+                      "p_value":  0.796222,
+                      "-log10(p_value)":  0.098966,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_9",
+                      "logFC":  0.096748,
+                      "p_value":  0.796505,
+                      "-log10(p_value)":  0.098811,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_103",
+                      "logFC":  0.0809,
+                      "p_value":  0.804123,
+                      "-log10(p_value)":  0.094677,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_132",
+                      "logFC":  -0.061879,
+                      "p_value":  0.813561,
+                      "-log10(p_value)":  0.08961,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_124",
+                      "logFC":  0.075617,
+                      "p_value":  0.818299,
+                      "-log10(p_value)":  0.087088,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_256",
+                      "logFC":  0.050709,
+                      "p_value":  0.830808,
+                      "-log10(p_value)":  0.080499,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_248",
+                      "logFC":  -0.073675,
+                      "p_value":  0.832478,
+                      "-log10(p_value)":  0.079627,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_240",
+                      "logFC":  -0.058949,
+                      "p_value":  0.834644,
+                      "-log10(p_value)":  0.078499,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_185",
+                      "logFC":  0.067131,
+                      "p_value":  0.836948,
+                      "-log10(p_value)":  0.077302,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_221",
+                      "logFC":  0.097895,
+                      "p_value":  0.83699,
+                      "-log10(p_value)":  0.07728,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_170",
+                      "logFC":  0.052044,
+                      "p_value":  0.843677,
+                      "-log10(p_value)":  0.073824,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_100",
+                      "logFC":  -0.042362,
+                      "p_value":  0.852948,
+                      "-log10(p_value)":  0.069077,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_194",
+                      "logFC":  -0.061248,
+                      "p_value":  0.853046,
+                      "-log10(p_value)":  0.069028,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_197",
+                      "logFC":  0.054815,
+                      "p_value":  0.853724,
+                      "-log10(p_value)":  0.068682,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_65",
+                      "logFC":  0.064671,
+                      "p_value":  0.856842,
+                      "-log10(p_value)":  0.067099,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_38",
+                      "logFC":  -0.06177,
+                      "p_value":  0.858393,
+                      "-log10(p_value)":  0.066314,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_11",
+                      "logFC":  0.058798,
+                      "p_value":  0.862269,
+                      "-log10(p_value)":  0.064357,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_48",
+                      "logFC":  0.045674,
+                      "p_value":  0.874406,
+                      "-log10(p_value)":  0.058287,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_147",
+                      "logFC":  -0.055952,
+                      "p_value":  0.885934,
+                      "-log10(p_value)":  0.052599,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_42",
+                      "logFC":  0.044805,
+                      "p_value":  0.890855,
+                      "-log10(p_value)":  0.050193,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_67",
+                      "logFC":  0.030945,
+                      "p_value":  0.892324,
+                      "-log10(p_value)":  0.049477,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_239",
+                      "logFC":  0.033386,
+                      "p_value":  0.897447,
+                      "-log10(p_value)":  0.046991,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_298",
+                      "logFC":  -0.031209,
+                      "p_value":  0.902582,
+                      "-log10(p_value)":  0.044513,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_144",
+                      "logFC":  -0.029634,
+                      "p_value":  0.908534,
+                      "-log10(p_value)":  0.041659,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_242",
+                      "logFC":  -0.034837,
+                      "p_value":  0.915092,
+                      "-log10(p_value)":  0.038535,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_214",
+                      "logFC":  0.026107,
+                      "p_value":  0.916831,
+                      "-log10(p_value)":  0.037711,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_17",
+                      "logFC":  -0.028523,
+                      "p_value":  0.91878,
+                      "-log10(p_value)":  0.036788,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_216",
+                      "logFC":  0.031288,
+                      "p_value":  0.919762,
+                      "-log10(p_value)":  0.036325,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_184",
+                      "logFC":  -0.032228,
+                      "p_value":  0.922362,
+                      "-log10(p_value)":  0.035098,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_262",
+                      "logFC":  -0.033719,
+                      "p_value":  0.923553,
+                      "-log10(p_value)":  0.034538,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_101",
+                      "logFC":  -0.032784,
+                      "p_value":  0.927374,
+                      "-log10(p_value)":  0.032745,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_255",
+                      "logFC":  -0.023474,
+                      "p_value":  0.929067,
+                      "-log10(p_value)":  0.031953,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_98",
+                      "logFC":  0.030879,
+                      "p_value":  0.92928,
+                      "-log10(p_value)":  0.031853,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_118",
+                      "logFC":  0.02827,
+                      "p_value":  0.92948,
+                      "-log10(p_value)":  0.03176,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_156",
+                      "logFC":  0.028769,
+                      "p_value":  0.931648,
+                      "-log10(p_value)":  0.030748,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_59",
+                      "logFC":  0.037366,
+                      "p_value":  0.933207,
+                      "-log10(p_value)":  0.030022,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_250",
+                      "logFC":  -0.02997,
+                      "p_value":  0.937446,
+                      "-log10(p_value)":  0.028054,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_155",
+                      "logFC":  -0.022829,
+                      "p_value":  0.937816,
+                      "-log10(p_value)":  0.027882,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_70",
+                      "logFC":  -0.023283,
+                      "p_value":  0.938549,
+                      "-log10(p_value)":  0.027543,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_85",
+                      "logFC":  0.019933,
+                      "p_value":  0.938992,
+                      "-log10(p_value)":  0.027338,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_277",
+                      "logFC":  -0.022123,
+                      "p_value":  0.94019,
+                      "-log10(p_value)":  0.026784,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_265",
+                      "logFC":  -0.022132,
+                      "p_value":  0.947479,
+                      "-log10(p_value)":  0.023431,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_230",
+                      "logFC":  -0.021453,
+                      "p_value":  0.948603,
+                      "-log10(p_value)":  0.022916,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_135",
+                      "logFC":  -0.019202,
+                      "p_value":  0.949441,
+                      "-log10(p_value)":  0.022532,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_148",
+                      "logFC":  -0.01692,
+                      "p_value":  0.955717,
+                      "-log10(p_value)":  0.019671,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_213",
+                      "logFC":  -0.020201,
+                      "p_value":  0.960322,
+                      "-log10(p_value)":  0.017583,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_190",
+                      "logFC":  -0.014632,
+                      "p_value":  0.960377,
+                      "-log10(p_value)":  0.017558,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_107",
+                      "logFC":  0.014045,
+                      "p_value":  0.971073,
+                      "-log10(p_value)":  0.012748,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_46",
+                      "logFC":  -0.006522,
+                      "p_value":  0.977055,
+                      "-log10(p_value)":  0.010081,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_50",
+                      "logFC":  -0.005912,
+                      "p_value":  0.978738,
+                      "-log10(p_value)":  0.009333,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_77",
+                      "logFC":  -0.006308,
+                      "p_value":  0.978898,
+                      "-log10(p_value)":  0.009263,
+                      "Regulation":  "Not Significant"
+                  },
+                  {
+                      "Gene":  "gene_60",
+                      "logFC":  0.004294,
+                      "p_value":  0.990001,
+                      "-log10(p_value)":  0.004364,
+                      "Regulation":  "Not Significant"
+                  }
+              ],
+    "Count":  310
+}

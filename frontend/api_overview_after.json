@@ -1,0 +1,616 @@
+﻿{
+    "dataset_id":  "breast_cancer",
+    "n_samples":  120,
+    "n_genes":  310,
+    "groups":  {
+                   "Primary":  60,
+                   "Metastatic":  60
+               },
+    "library_sizes":  [
+                          {
+                              "sample_name":  "GSM_BC_000",
+                              "group_name":  "Primary",
+                              "library_size":  9738.209465503693
+                          },
+                          {
+                              "sample_name":  "GSM_BC_001",
+                              "group_name":  "Primary",
+                              "library_size":  9763.612462162971
+                          },
+                          {
+                              "sample_name":  "GSM_BC_002",
+                              "group_name":  "Primary",
+                              "library_size":  9840.92139172554
+                          },
+                          {
+                              "sample_name":  "GSM_BC_003",
+                              "group_name":  "Primary",
+                              "library_size":  9950.840215146542
+                          },
+                          {
+                              "sample_name":  "GSM_BC_004",
+                              "group_name":  "Primary",
+                              "library_size":  10476.815677523613
+                          },
+                          {
+                              "sample_name":  "GSM_BC_005",
+                              "group_name":  "Primary",
+                              "library_size":  8900.699604511261
+                          },
+                          {
+                              "sample_name":  "GSM_BC_006",
+                              "group_name":  "Primary",
+                              "library_size":  9451.865300655365
+                          },
+                          {
+                              "sample_name":  "GSM_BC_007",
+                              "group_name":  "Primary",
+                              "library_size":  10257.576235711575
+                          },
+                          {
+                              "sample_name":  "GSM_BC_008",
+                              "group_name":  "Primary",
+                              "library_size":  10833.657448768616
+                          },
+                          {
+                              "sample_name":  "GSM_BC_009",
+                              "group_name":  "Primary",
+                              "library_size":  11222.670100331306
+                          },
+                          {
+                              "sample_name":  "GSM_BC_010",
+                              "group_name":  "Primary",
+                              "library_size":  9563.309916138649
+                          },
+                          {
+                              "sample_name":  "GSM_BC_011",
+                              "group_name":  "Primary",
+                              "library_size":  10953.973941087723
+                          },
+                          {
+                              "sample_name":  "GSM_BC_012",
+                              "group_name":  "Primary",
+                              "library_size":  9997.526520371437
+                          },
+                          {
+                              "sample_name":  "GSM_BC_013",
+                              "group_name":  "Primary",
+                              "library_size":  11228.542168617249
+                          },
+                          {
+                              "sample_name":  "GSM_BC_014",
+                              "group_name":  "Primary",
+                              "library_size":  9706.399204730988
+                          },
+                          {
+                              "sample_name":  "GSM_BC_015",
+                              "group_name":  "Primary",
+                              "library_size":  9606.744547307491
+                          },
+                          {
+                              "sample_name":  "GSM_BC_016",
+                              "group_name":  "Primary",
+                              "library_size":  9932.118314504623
+                          },
+                          {
+                              "sample_name":  "GSM_BC_017",
+                              "group_name":  "Primary",
+                              "library_size":  10228.158692002296
+                          },
+                          {
+                              "sample_name":  "GSM_BC_018",
+                              "group_name":  "Primary",
+                              "library_size":  11720.994172856212
+                          },
+                          {
+                              "sample_name":  "GSM_BC_019",
+                              "group_name":  "Primary",
+                              "library_size":  10919.956476688385
+                          },
+                          {
+                              "sample_name":  "GSM_BC_020",
+                              "group_name":  "Primary",
+                              "library_size":  11889.645211815834
+                          },
+                          {
+                              "sample_name":  "GSM_BC_021",
+                              "group_name":  "Primary",
+                              "library_size":  9502.29102575779
+                          },
+                          {
+                              "sample_name":  "GSM_BC_022",
+                              "group_name":  "Primary",
+                              "library_size":  10397.751058757305
+                          },
+                          {
+                              "sample_name":  "GSM_BC_023",
+                              "group_name":  "Primary",
+                              "library_size":  10083.35901415348
+                          },
+                          {
+                              "sample_name":  "GSM_BC_024",
+                              "group_name":  "Primary",
+                              "library_size":  8881.904325127602
+                          },
+                          {
+                              "sample_name":  "GSM_BC_025",
+                              "group_name":  "Primary",
+                              "library_size":  9860.731424808502
+                          },
+                          {
+                              "sample_name":  "GSM_BC_026",
+                              "group_name":  "Primary",
+                              "library_size":  11065.163130164146
+                          },
+                          {
+                              "sample_name":  "GSM_BC_027",
+                              "group_name":  "Primary",
+                              "library_size":  9949.198598742485
+                          },
+                          {
+                              "sample_name":  "GSM_BC_028",
+                              "group_name":  "Primary",
+                              "library_size":  10240.205063343048
+                          },
+                          {
+                              "sample_name":  "GSM_BC_029",
+                              "group_name":  "Primary",
+                              "library_size":  10762.386444211006
+                          },
+                          {
+                              "sample_name":  "GSM_BC_030",
+                              "group_name":  "Primary",
+                              "library_size":  9976.81302702427
+                          },
+                          {
+                              "sample_name":  "GSM_BC_031",
+                              "group_name":  "Primary",
+                              "library_size":  10594.681622564793
+                          },
+                          {
+                              "sample_name":  "GSM_BC_032",
+                              "group_name":  "Primary",
+                              "library_size":  10168.133621811867
+                          },
+                          {
+                              "sample_name":  "GSM_BC_033",
+                              "group_name":  "Primary",
+                              "library_size":  9687.815032839775
+                          },
+                          {
+                              "sample_name":  "GSM_BC_034",
+                              "group_name":  "Primary",
+                              "library_size":  9962.524796664715
+                          },
+                          {
+                              "sample_name":  "GSM_BC_035",
+                              "group_name":  "Primary",
+                              "library_size":  11643.707138717175
+                          },
+                          {
+                              "sample_name":  "GSM_BC_036",
+                              "group_name":  "Primary",
+                              "library_size":  8820.7032995224
+                          },
+                          {
+                              "sample_name":  "GSM_BC_037",
+                              "group_name":  "Primary",
+                              "library_size":  11478.586776852608
+                          },
+                          {
+                              "sample_name":  "GSM_BC_038",
+                              "group_name":  "Primary",
+                              "library_size":  10506.957512021065
+                          },
+                          {
+                              "sample_name":  "GSM_BC_039",
+                              "group_name":  "Primary",
+                              "library_size":  8666.984577298164
+                          },
+                          {
+                              "sample_name":  "GSM_BC_040",
+                              "group_name":  "Primary",
+                              "library_size":  10716.850376486778
+                          },
+                          {
+                              "sample_name":  "GSM_BC_041",
+                              "group_name":  "Primary",
+                              "library_size":  9629.651397168636
+                          },
+                          {
+                              "sample_name":  "GSM_BC_042",
+                              "group_name":  "Primary",
+                              "library_size":  10629.910749912262
+                          },
+                          {
+                              "sample_name":  "GSM_BC_043",
+                              "group_name":  "Primary",
+                              "library_size":  10234.79133284092
+                          },
+                          {
+                              "sample_name":  "GSM_BC_044",
+                              "group_name":  "Primary",
+                              "library_size":  11570.931151509285
+                          },
+                          {
+                              "sample_name":  "GSM_BC_045",
+                              "group_name":  "Primary",
+                              "library_size":  9216.476904451847
+                          },
+                          {
+                              "sample_name":  "GSM_BC_046",
+                              "group_name":  "Primary",
+                              "library_size":  11414.25030708313
+                          },
+                          {
+                              "sample_name":  "GSM_BC_047",
+                              "group_name":  "Primary",
+                              "library_size":  10631.336067080498
+                          },
+                          {
+                              "sample_name":  "GSM_BC_048",
+                              "group_name":  "Primary",
+                              "library_size":  9960.18722486496
+                          },
+                          {
+                              "sample_name":  "GSM_BC_049",
+                              "group_name":  "Primary",
+                              "library_size":  9809.237462639809
+                          },
+                          {
+                              "sample_name":  "GSM_BC_050",
+                              "group_name":  "Primary",
+                              "library_size":  9829.013460814953
+                          },
+                          {
+                              "sample_name":  "GSM_BC_051",
+                              "group_name":  "Primary",
+                              "library_size":  10225.00934612751
+                          },
+                          {
+                              "sample_name":  "GSM_BC_052",
+                              "group_name":  "Primary",
+                              "library_size":  10683.684373378754
+                          },
+                          {
+                              "sample_name":  "GSM_BC_053",
+                              "group_name":  "Primary",
+                              "library_size":  10483.12633550167
+                          },
+                          {
+                              "sample_name":  "GSM_BC_054",
+                              "group_name":  "Primary",
+                              "library_size":  11545.68325996399
+                          },
+                          {
+                              "sample_name":  "GSM_BC_055",
+                              "group_name":  "Primary",
+                              "library_size":  11068.620138645172
+                          },
+                          {
+                              "sample_name":  "GSM_BC_056",
+                              "group_name":  "Primary",
+                              "library_size":  11084.235382795334
+                          },
+                          {
+                              "sample_name":  "GSM_BC_057",
+                              "group_name":  "Primary",
+                              "library_size":  10548.055049657822
+                          },
+                          {
+                              "sample_name":  "GSM_BC_058",
+                              "group_name":  "Primary",
+                              "library_size":  9647.040889024734
+                          },
+                          {
+                              "sample_name":  "GSM_BC_059",
+                              "group_name":  "Primary",
+                              "library_size":  9059.073703289032
+                          },
+                          {
+                              "sample_name":  "GSM_BC_060",
+                              "group_name":  "Metastatic",
+                              "library_size":  12518.437603116035
+                          },
+                          {
+                              "sample_name":  "GSM_BC_061",
+                              "group_name":  "Metastatic",
+                              "library_size":  11371.731594145298
+                          },
+                          {
+                              "sample_name":  "GSM_BC_062",
+                              "group_name":  "Metastatic",
+                              "library_size":  11810.788046956062
+                          },
+                          {
+                              "sample_name":  "GSM_BC_063",
+                              "group_name":  "Metastatic",
+                              "library_size":  12307.012558102608
+                          },
+                          {
+                              "sample_name":  "GSM_BC_064",
+                              "group_name":  "Metastatic",
+                              "library_size":  14080.116152048111
+                          },
+                          {
+                              "sample_name":  "GSM_BC_065",
+                              "group_name":  "Metastatic",
+                              "library_size":  10979.313056707382
+                          },
+                          {
+                              "sample_name":  "GSM_BC_066",
+                              "group_name":  "Metastatic",
+                              "library_size":  9240.85210776329
+                          },
+                          {
+                              "sample_name":  "GSM_BC_067",
+                              "group_name":  "Metastatic",
+                              "library_size":  10306.591839075089
+                          },
+                          {
+                              "sample_name":  "GSM_BC_068",
+                              "group_name":  "Metastatic",
+                              "library_size":  10316.208821773529
+                          },
+                          {
+                              "sample_name":  "GSM_BC_069",
+                              "group_name":  "Metastatic",
+                              "library_size":  11388.94618320465
+                          },
+                          {
+                              "sample_name":  "GSM_BC_070",
+                              "group_name":  "Metastatic",
+                              "library_size":  9359.97977745533
+                          },
+                          {
+                              "sample_name":  "GSM_BC_071",
+                              "group_name":  "Metastatic",
+                              "library_size":  9813.758060097694
+                          },
+                          {
+                              "sample_name":  "GSM_BC_072",
+                              "group_name":  "Metastatic",
+                              "library_size":  10439.007679343224
+                          },
+                          {
+                              "sample_name":  "GSM_BC_073",
+                              "group_name":  "Metastatic",
+                              "library_size":  10066.953330755234
+                          },
+                          {
+                              "sample_name":  "GSM_BC_074",
+                              "group_name":  "Metastatic",
+                              "library_size":  11555.354890346527
+                          },
+                          {
+                              "sample_name":  "GSM_BC_075",
+                              "group_name":  "Metastatic",
+                              "library_size":  11822.767501831055
+                          },
+                          {
+                              "sample_name":  "GSM_BC_076",
+                              "group_name":  "Metastatic",
+                              "library_size":  11539.884345173836
+                          },
+                          {
+                              "sample_name":  "GSM_BC_077",
+                              "group_name":  "Metastatic",
+                              "library_size":  10617.47897708416
+                          },
+                          {
+                              "sample_name":  "GSM_BC_078",
+                              "group_name":  "Metastatic",
+                              "library_size":  11086.252408385277
+                          },
+                          {
+                              "sample_name":  "GSM_BC_079",
+                              "group_name":  "Metastatic",
+                              "library_size":  11922.625762104988
+                          },
+                          {
+                              "sample_name":  "GSM_BC_080",
+                              "group_name":  "Metastatic",
+                              "library_size":  9683.554303884506
+                          },
+                          {
+                              "sample_name":  "GSM_BC_081",
+                              "group_name":  "Metastatic",
+                              "library_size":  11076.660320997238
+                          },
+                          {
+                              "sample_name":  "GSM_BC_082",
+                              "group_name":  "Metastatic",
+                              "library_size":  12499.494269251823
+                          },
+                          {
+                              "sample_name":  "GSM_BC_083",
+                              "group_name":  "Metastatic",
+                              "library_size":  10558.262512922287
+                          },
+                          {
+                              "sample_name":  "GSM_BC_084",
+                              "group_name":  "Metastatic",
+                              "library_size":  11431.36833524704
+                          },
+                          {
+                              "sample_name":  "GSM_BC_085",
+                              "group_name":  "Metastatic",
+                              "library_size":  11922.058212399483
+                          },
+                          {
+                              "sample_name":  "GSM_BC_086",
+                              "group_name":  "Metastatic",
+                              "library_size":  12208.307927131653
+                          },
+                          {
+                              "sample_name":  "GSM_BC_087",
+                              "group_name":  "Metastatic",
+                              "library_size":  11681.762457489967
+                          },
+                          {
+                              "sample_name":  "GSM_BC_088",
+                              "group_name":  "Metastatic",
+                              "library_size":  11476.680655956268
+                          },
+                          {
+                              "sample_name":  "GSM_BC_089",
+                              "group_name":  "Metastatic",
+                              "library_size":  10976.325024783611
+                          },
+                          {
+                              "sample_name":  "GSM_BC_090",
+                              "group_name":  "Metastatic",
+                              "library_size":  11250.002410769463
+                          },
+                          {
+                              "sample_name":  "GSM_BC_091",
+                              "group_name":  "Metastatic",
+                              "library_size":  10965.81164419651
+                          },
+                          {
+                              "sample_name":  "GSM_BC_092",
+                              "group_name":  "Metastatic",
+                              "library_size":  9914.317208886147
+                          },
+                          {
+                              "sample_name":  "GSM_BC_093",
+                              "group_name":  "Metastatic",
+                              "library_size":  10210.0669298172
+                          },
+                          {
+                              "sample_name":  "GSM_BC_094",
+                              "group_name":  "Metastatic",
+                              "library_size":  11011.07399737835
+                          },
+                          {
+                              "sample_name":  "GSM_BC_095",
+                              "group_name":  "Metastatic",
+                              "library_size":  10763.250223636627
+                          },
+                          {
+                              "sample_name":  "GSM_BC_096",
+                              "group_name":  "Metastatic",
+                              "library_size":  10678.987583518028
+                          },
+                          {
+                              "sample_name":  "GSM_BC_097",
+                              "group_name":  "Metastatic",
+                              "library_size":  12850.964401483536
+                          },
+                          {
+                              "sample_name":  "GSM_BC_098",
+                              "group_name":  "Metastatic",
+                              "library_size":  10231.292993187904
+                          },
+                          {
+                              "sample_name":  "GSM_BC_099",
+                              "group_name":  "Metastatic",
+                              "library_size":  11341.616237223148
+                          },
+                          {
+                              "sample_name":  "GSM_BC_100",
+                              "group_name":  "Metastatic",
+                              "library_size":  10272.781965970993
+                          },
+                          {
+                              "sample_name":  "GSM_BC_101",
+                              "group_name":  "Metastatic",
+                              "library_size":  10871.172210991383
+                          },
+                          {
+                              "sample_name":  "GSM_BC_102",
+                              "group_name":  "Metastatic",
+                              "library_size":  9551.864855378866
+                          },
+                          {
+                              "sample_name":  "GSM_BC_103",
+                              "group_name":  "Metastatic",
+                              "library_size":  12560.432247459888
+                          },
+                          {
+                              "sample_name":  "GSM_BC_104",
+                              "group_name":  "Metastatic",
+                              "library_size":  10899.68029397726
+                          },
+                          {
+                              "sample_name":  "GSM_BC_105",
+                              "group_name":  "Metastatic",
+                              "library_size":  10579.48061478138
+                          },
+                          {
+                              "sample_name":  "GSM_BC_106",
+                              "group_name":  "Metastatic",
+                              "library_size":  11007.586804747581
+                          },
+                          {
+                              "sample_name":  "GSM_BC_107",
+                              "group_name":  "Metastatic",
+                              "library_size":  11139.24615764618
+                          },
+                          {
+                              "sample_name":  "GSM_BC_108",
+                              "group_name":  "Metastatic",
+                              "library_size":  10034.79322874546
+                          },
+                          {
+                              "sample_name":  "GSM_BC_109",
+                              "group_name":  "Metastatic",
+                              "library_size":  11751.74273622036
+                          },
+                          {
+                              "sample_name":  "GSM_BC_110",
+                              "group_name":  "Metastatic",
+                              "library_size":  10797.823226690292
+                          },
+                          {
+                              "sample_name":  "GSM_BC_111",
+                              "group_name":  "Metastatic",
+                              "library_size":  10737.188044071198
+                          },
+                          {
+                              "sample_name":  "GSM_BC_112",
+                              "group_name":  "Metastatic",
+                              "library_size":  10474.702039122581
+                          },
+                          {
+                              "sample_name":  "GSM_BC_113",
+                              "group_name":  "Metastatic",
+                              "library_size":  11104.566691040993
+                          },
+                          {
+                              "sample_name":  "GSM_BC_114",
+                              "group_name":  "Metastatic",
+                              "library_size":  10500.071358323097
+                          },
+                          {
+                              "sample_name":  "GSM_BC_115",
+                              "group_name":  "Metastatic",
+                              "library_size":  11585.24290049076
+                          },
+                          {
+                              "sample_name":  "GSM_BC_116",
+                              "group_name":  "Metastatic",
+                              "library_size":  11834.440577626228
+                          },
+                          {
+                              "sample_name":  "GSM_BC_117",
+                              "group_name":  "Metastatic",
+                              "library_size":  11216.078908920288
+                          },
+                          {
+                              "sample_name":  "GSM_BC_118",
+                              "group_name":  "Metastatic",
+                              "library_size":  9798.071965038776
+                          },
+                          {
+                              "sample_name":  "GSM_BC_119",
+                              "group_name":  "Metastatic",
+                              "library_size":  9965.297350287437
+                          }
+                      ],
+    "regulation_summary":  {
+                               "upregulated":  9,
+                               "downregulated":  0,
+                               "not_significant":  301
+                           }
+}
